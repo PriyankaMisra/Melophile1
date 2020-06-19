@@ -1,0 +1,65 @@
+h1{
+	text-align: center;
+	color:white;
+	background-image:url("https://thumbs.gfycat.com/BraveUnknownLemming-size_restricted.gif");
+	padding: 20px;
+}
+hr{
+	border: 1px solid black;
+}
+h2{
+	text-align:center; 
+}
+img{
+	display: block;
+	margin-top: 20px;
+	border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+header{
+	background-color: black;
+    padding: 10px;
+}
+ol{
+	list-style: none;
+	display: inline;
+}
+li{
+	display: inline;
+	margin: 80px;
+}
+li a{
+	color: white;
+	text-decoration: none;
+}
+li a:hover {
+	color: red;
+	text-decoration: none;
+}
+footer{
+	background-color: black;
+	padding: 1px;
+
+}
+.special{
+	color: white;
+	text-align: center;	
+	font-family: verdana;
+}
+h3{
+	text-align: center;
+}
+iframe{
+	display: block;
+	text-align: center;
+}
+p a:hover{
+	text-decoration: none;
+	color: red;
+}
+
+
+
+
